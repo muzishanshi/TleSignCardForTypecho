@@ -5,7 +5,7 @@ TleSignCard一元打卡插件是一款为激励用户早起挑战、调整作息
 
 程序有可能会遇到bug不改版本号直接修改代码的时候，所以扫描以下二维码关注公众号“同乐儿”，可直接与作者二呆产生联系，不再为bug烦恼，随时随地解决问题。
 
-<img src="http://me.tongleer.com/content/uploadfile/201706/008b1497454448.png">
+<img src="https://ws3.sinaimg.cn/large/ecabade5ly1fvh8g429sjj203w03wt8m.jpg">
 
 #### 使用方法：
 第一步：下载本插件，放在 `usr/plugins/` 目录中（插件文件夹名必须为TleSignCard）；<br />
